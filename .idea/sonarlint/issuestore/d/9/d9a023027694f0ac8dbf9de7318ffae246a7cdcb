@@ -1,0 +1,12 @@
+
+œ
+java:S2159
+"zRemove this call to "equals"; comparisons against null always return false; consider using '== null' to check for nullity.(Ã¯³Ãøÿÿÿÿ8‘Á³ÙÛ.
+i
+java:S1128"GRemove this unused import 'org.apache.hadoop.hive.ql.exec.Description'.(£’Á½úÿÿÿÿ8˜ÚÙÛ.
+œ
+java:S2159
+"zRemove this call to "equals"; comparisons against null always return false; consider using '== null' to check for nullity.(Ã¯³Ãøÿÿÿÿ8‘Á³ÙÛ.
+f
+java:S2583
+"DChange this condition so that it does not always evaluate to "false"(Ã¯³Ãøÿÿÿÿ8‘Á³ÙÛ.
